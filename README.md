@@ -1,7 +1,7 @@
 # GDC-Hackathon
 Build with Ai hackathon hosted by UBC GDC and UBC Launchpad 
 
-# Analysis of US Crime Rates
+# Project Name
 
 ## **Overview**
 - **What problem is being solved?**
