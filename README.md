@@ -13,7 +13,7 @@ Build with Ai hackathon hosted by UBC GDC and UBC Launchpad
 ## **Design Choices**
 
 **What design choices were made and why were these choices made?**
-sALAM 23
+
 ## **Problem Solving**
 **Describes how the problem was solved**
 
